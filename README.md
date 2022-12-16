@@ -1,8 +1,8 @@
 ## Olá! Meu nome é João Victor e sou estudande de programação.
 <div align="center">
   <a href="https://github.com/jvcodebr">
-  <img height="180em" src="https://github-readme-stats-jvcodebr.vercel.app/api?username=jvcodebr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-jvcodebr.vercel.app/api/top-langs/?username=jvcodebr&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-psi-pied.vercel.app/api?username=jvcodebr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-psi-pied.vercel.app/api/top-langs/?username=jvcodebr&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JvCodeBR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
