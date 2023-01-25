@@ -1,4 +1,4 @@
-## Olá! Meu nome é João Victor e sou estudande de programação.
+
 <div align="center">
   <a href="https://github.com/jvcodebr">
   <img height="180em" src="https://github-readme-stats-psi-pied.vercel.app/api?username=jvcodebr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
