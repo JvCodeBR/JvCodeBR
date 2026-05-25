@@ -2,9 +2,9 @@
 
 **Fullstack Developer** · Java • Spring Boot • React • Angular
 
-3 years building high-traffic web applications end-to-end. Backend-focused, frontend-capable, production-hardened.
+Building high-traffic web applications end-to-end. Backend-focused, frontend-capable, production-hardened.
 
-📧 joovitor.santos796@gmail.com · [LinkedIn](https://linkedin.com/in/joao-victor-lucio) · [GitHub](https://github.com/JvCodeBR)
+📧 joovitor.santos796@gmail.com · [LinkedIn](https://linkedin.com/in/joao-victor-lucio) · [GitHub](https://github.com/JvCodeBR) · [Site](https://joaotech.dev/en/)
 
 ---
 
@@ -77,4 +77,4 @@ Brazil's largest fleet management company.
 
 ---
 
-*Clean Code · SOLID · TDD · Agile (Scrum/Kanban) · Portuguese (Native) · English (Intermediate/Advanced)*
+*Clean Code · SOLID · TDD · Agile (Scrum/Kanban) · Portuguese (Native) · English (Advanced)*
